@@ -47,8 +47,6 @@ Crear un archivo `.env` en la raíz del proyecto con lo siguiente:
     JWT_SECRET=tu_secreto  
     PORT=3000  
 
-Nota: No subas tu archivo `.env` al repositorio. Usa tus propias credenciales.
-
 ---
 
 ## ▶️ Ejecución
